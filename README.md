@@ -1,2 +1,3 @@
 # P3_RadixSort
-Realizar un programa que ordene 1,000,000 de elementos generados aleatoriamente por medio del algoritmo Radix Sort, utilizando listas simplementes ligadas
+
+![alt text](https://cdn.programiz.com/sites/tutorial2program/files/Radix-sort-one.png)
